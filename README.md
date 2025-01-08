@@ -10,7 +10,7 @@ Level up your web development skills with these fun, interactive projects:
 
 | Project                | Description                                     | Tech Stack                | Code                                      |
 |------------------------|-------------------------------------------------|---------------------------|-------------------------------------------|
-| **To-Do Application**  | Keep track of your tasks with ease              | ReactJS                   | [GitHub](https://github.com/smilewithkhushi/To-Do-App-Using-React) |
+| **Hackathon Website**  | A sample website to promote your hackathon      | NextJs, Framer Motion     | [GitHub](https://github.com/smilewithkhushi/I-love-Hackathon) |
 | **Portfolio Website**  | Showcase your skills and projects               | ReactJS                   | [GitHub](https://github.com/smilewithkhushi/sample-portfolio) |
 | **Online CS Quiz**     | Test coding knowledge with a point-based quiz   | ReactJS                   | [GitHub](https://github.com/smilewithkhushi/Online-CS-Quiz) |
 | **Banking System**     | Basic banking app with transaction tracking     | PHP, MySQL, HTML, CSS     | [GitHub](https://github.com/smilewithkhushi/Basic-Banking-System) |
@@ -19,6 +19,8 @@ Level up your web development skills with these fun, interactive projects:
 | **Hex Color Generator**| Generate random HEX colors for designs          | HTML, CSS, JS             | [GitHub](https://github.com/smilewithkhushi/HEX-COLOR-APPLICATION) |
 | **Calculator**         | Basic calculator with essential operations      | HTML, CSS, JS             | [GitHub](https://github.com/smilewithkhushi/Calculator) |
 | **Magic 8 Ball**       | Get fortune-telling fun with a twist            | HTML, CSS, JS             | [GitHub](https://github.com/smilewithkhushi/Magic-8-Ball-Fortune-Teller) |
+| **To-Do Application**  | Keep track of your tasks with ease              | ReactJS                   | [GitHub](https://github.com/smilewithkhushi/To-Do-App-Using-React) |
+
 
 ---
 <br>
